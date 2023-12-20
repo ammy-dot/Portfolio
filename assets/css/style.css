@@ -87,7 +87,7 @@ nav.navbar.bootsnav.no-background {
 nav.navbar.bootsnav.no-background {
     background-color: #fff;
     border: none;
-    width: 100%;
+    max-width: 480px;
 }
 
 nav.navbar.bootsnav {
