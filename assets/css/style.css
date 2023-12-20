@@ -11,6 +11,15 @@
 	-ms-box-sizing:border-box;
 	box-sizing:border-box;
 }
+
+@media (min-width: 480px){}
+body {
+    background-color: #fff;
+    border: none;
+    max-width: 480px;
+}
+
+
 body{
 	font-family: 'Poppins', sans-serif;
 	font-size:16px;
@@ -82,12 +91,6 @@ html,body{
 nav.navbar.bootsnav.no-background {
     background-color: #fff;
     border: none;
-}
-@media (min-width: 480px){}
-nav.navbar.bootsnav.no-background {
-    background-color: #fff;
-    border: none;
-    max-width: 480px;
 }
 
 nav.navbar.bootsnav {
