@@ -13,10 +13,10 @@
 }
 
 @media (min-width: 480px){}
-body {
-    background-color: #fff;
-    border: none;
-    max-width: 480px;
+nav.navbar.bootsnav.navbar-fixed {
+    position: fixed;
+    display: block;
+    width: 375px;
 }
 
 
