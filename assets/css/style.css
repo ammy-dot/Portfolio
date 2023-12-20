@@ -188,12 +188,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     line-height: 1.5;
 }
 
-@media only screen and (max-width: 600px) {
-    .header-text h2  {
-        font-size: 42px;
-
-    }
-  }
 
   
 
@@ -207,12 +201,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     letter-spacing: 1px;
 }
 
-@media only screen and (max-width: 600px) {
-    .header-text p  {
-            font-size: 16px;
-    
-        }
-      }
+
 
 .header-text a {
     width: 200px;
